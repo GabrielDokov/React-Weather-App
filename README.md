@@ -28,6 +28,6 @@ This is a weather app, which shows daily and weekly weather for current city
 <img src='Screenshots/accordion react.png'></img>
 
 
-# Feedback 
+# 🏆Feedback 
 
 Thank you for viewing my project.If you have any questions, you can find contant information in my profile.
